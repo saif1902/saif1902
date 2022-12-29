@@ -39,7 +39,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <p align="center"><img src="https://github.com/saif1902/saif1902/blob/output/github-contribution-grid-snake.svg" alt="saif1902 contribution snake graph" /></p>
+  <p align="center"><img src="https://github.com/saif1902/saif1902/output/github-contribution-grid-snake.svg" alt="saif1902 contribution snake graph" /></p>
 </picture>
 <!---
 saif1902/saif1902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
