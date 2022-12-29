@@ -35,12 +35,11 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats-test-mu.vercel.app/api?username=saif1902&theme=dracula&count_private=true&border_radius=6&show_icons=true&locale=en&cache_seconds=7200&hide_border=true" alt="saif1902" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saif1902&theme=dracula&border_radius=6&hide_border=true&ring=00bbf9" alt="saif1902" /></p>
+
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)</p>
+
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <p align="center"><img src="https://github.com/saif1902/saif1902/output/github-contribution-grid-snake.svg" alt="saif1902 contribution snake graph" /></p>
-</picture>
 <!---
 saif1902/saif1902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
