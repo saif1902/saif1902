@@ -5,9 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif1902&row=1&col=7&theme=onedark" alt="saif1902" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/in/saif-ahmed-b-eng-pmp®-099041142" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="saif-ahmed-b-eng-pmp®-099041142" /></a> </p>
-
-
 - 👀 I’m interested in agile data science projects that uses analytics and machine learning to optimize business processes.
 
 - 🌱 I’m currently learning **Cloud Fin-Ops**
