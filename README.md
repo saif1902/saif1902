@@ -35,8 +35,6 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats-test-mu.vercel.app/api?username=saif1902&theme=dracula&count_private=true&border_radius=6&show_icons=true&locale=en&cache_seconds=7200&hide_border=true" alt="saif1902" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saif1902&theme=dracula&border_radius=6&hide_border=true&ring=00bbf9" alt="saif1902" /></p>
-
-[![Saif's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saif1902&theme=react-dark)](https://github.com/saif1902/github-readme-activity-graph)
 </div>
 
 <picture>
