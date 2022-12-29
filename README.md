@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 <img width="50px" height="50px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" />, I’m Saif Ahmed</h1>
+<h1 align="center">Hi<img width="50px" height="50px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" />, I’m Saif Ahmed</h1>
 <h3 align="center">A passionate Data Scientist obessed with process automation, solving one data problem at a time 🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif1902&label=Profile%20views&color=0e75b6&style=flat" alt="saif1902" /> </p>
