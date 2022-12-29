@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Agile Project Management, DataBricks, Python**
 
-- 📫 Reach me at  **sa2262@mun.ca**
+- 📫 Reach me at  **saif.ahmed@nleats.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
