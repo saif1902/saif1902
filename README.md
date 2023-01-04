@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/saifahmed1902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifahmed1902" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saif-ahmed-b-eng-pmp®-099041142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-ahmed-b-eng-pmp®-099041142" height="30" width="40" /></a>
-<a href="https://medium.com/@sa2262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sa2262" height="30" width="40" /></a>
+<a href="https://medium.com/@saif.ahmed_90046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saif.ahmed_90046" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Major Languages and Tools:</h3>
