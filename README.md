@@ -36,7 +36,8 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saif1902&theme=dracula&border_radius=6&hide_border=true&ring=00bbf9" alt="saif1902" /></p>
 
-![Snake animation](https://github.com/saif1902/saif1902/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/saif1902/saif1902/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
