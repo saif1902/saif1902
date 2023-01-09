@@ -1,7 +1,7 @@
 name: Generate Data
 on:
   schedule: # execute every 12 hours
-    - cron: "* */6 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 jobs:
   build:
