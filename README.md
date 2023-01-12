@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saif1902](https://github.com/saif1902)
 
-- 📝 I regularly write articles on [https://medium.com/@sa2262](https://medium.com/@sa2262)
+- 📝 I regularly write articles on [https://medium.com/@saif.ahmed_90046](https://medium.com/@saif.ahmed_90046)
 
 - 💬 Ask me about **Agile Project Management, DataBricks, Python**
 
